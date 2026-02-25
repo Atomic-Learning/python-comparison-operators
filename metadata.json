@@ -12,7 +12,8 @@
   "prerequisites": [
     "programming-comparison-operators",
     "python-booleans",
-    "python-variables"
+    "python-variables",
+    "python-strings-introduction"
   ],
   "related": [
     "python-in-operator-membership",
