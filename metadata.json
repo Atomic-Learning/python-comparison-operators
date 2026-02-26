@@ -18,6 +18,8 @@
   "related": [
     "python-in-operator-membership",
     "python-boolean-operators",
-    "python-conditionals-if-elif-else"
+    "python-conditionals-if-elif-else",
+    "exercise-python-fizzbuzz",
+    "exercise-python-boolean-operator-prediction"
   ]
 }
