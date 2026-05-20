@@ -12,11 +12,14 @@
   "prerequisites": [
     "programming-comparison-operators",
     "python-booleans",
-    "python-variables"
+    "python-variables",
+    "python-strings-introduction"
   ],
   "related": [
     "python-in-operator-membership",
     "python-boolean-operators",
-    "python-conditionals-if-elif-else"
+    "python-conditionals-if-elif-else",
+    "exercise-python-fizzbuzz",
+    "exercise-python-boolean-operator-prediction"
   ]
 }
